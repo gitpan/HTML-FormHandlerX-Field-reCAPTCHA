@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'A Captcha::reCAPTCHA field for HTML::FormHandler'
 author:
   - 'John Napiorkowski C<< <jjnapiork@cpan.org> >>'
 build_requires:
@@ -28,4 +28,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/jjn1056/Test-DBIx-Class.git
-version: 0.01
+version: 0.02
